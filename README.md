@@ -1,29 +1,11 @@
-<p align="center">
-  <img src="https://i.imgur.com/T1xCI92.png" height='300'/>
-</p>
-
-# ✍️ [Project name]
+# ✍Trabalho Web
 > [Project description]
 
-## 🎯 Objective
-
 ## 📜 Requirements
-1. [Requirements]
-2. [Requirements]
-
-## ⚙️ Installation
-
-```
-
-
-```
-
-## 📝 Features & Commands
-
-- [Command]
-- [Command]
-- [Command]
-- [Command]
+1. NPM 8.19 or newer
+2. Docker 20.10 or newer
+3. Laravel 8.1
+4. Backpack 5.x
 
 ## 🖼️ Some Examples
   login page<br>
