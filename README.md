@@ -48,5 +48,5 @@ Currently available locales are:
 
 <p align="center">
   Created on <br>
-  dd/mm/yyyy
+  15/10/2022
 </p>
