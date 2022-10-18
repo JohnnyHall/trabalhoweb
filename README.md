@@ -1,13 +1,13 @@
-# ✍Trabalho Web
+# Trabalho Web
 > [Project description]
 
-## 📜 Requirements
+## Requirements
 1. NPM 8.19 or newer
 2. Docker 20.10 or newer
 3. Laravel 8.1
 4. Backpack 5.x
 
-## 🖼️ Some Examples
+## Some Examples
   login page<br>
   <img src="https://i.imgur.com/aZfPooS.png" height='400'/><br>
   reset password<br>
